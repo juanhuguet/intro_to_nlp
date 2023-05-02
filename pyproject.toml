@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "nlp-workshop"
+version = "0.1.0"
+description = ""
+authors = ["Juan Huguet <juan.huguet@gmail.com>"]
+readme = "README.md"
+packages = [{include = "nlp_workshop"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+scikit-learn = "^1.2.2"
+pandas = "^2.0.1"
+transformers = "^4.28.1"
+langchain = "^0.0.155"
+haystack = "^0.42"
+yellowbrick = "^1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
