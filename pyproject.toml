@@ -10,11 +10,18 @@ packages = [{include = "nlp_workshop"}]
 python = "^3.9"
 scikit-learn = "^1.2.2"
 pandas = "^2.0.1"
-transformers = "^4.28.1"
 langchain = "^0.0.155"
 haystack = "^0.42"
 yellowbrick = "^1.5"
 gensim = "^4.3.1"
+torch = "^2.0.0"
+transformers = "^4.28.1"
+jupyterlab = "^3.6.3"
+ipython = "^8.13.1"
+datasets = "^2.12.0"
+iprogress = "^0.4"
+ipywidgets = "^8.0.6"
+evaluate = "^0.4.0"
 
 
 [build-system]
