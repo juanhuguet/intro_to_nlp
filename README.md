@@ -1,6 +1,8 @@
-# README for NLP Project with Poetry and Jupyter Lab
+# Introduction to NLP
 
-This README provides instructions on how to set up and run the Jupyter notebooks for an NLP (Natural Language Processing) project using Poetry for dependency management.
+This README provides instructions on how to set up and run the Jupyter notebooks for the introduction to NLP (Natural Language Processing) workshop.
+
+It uses Poetry for dependency management. Also, all notebooks can be run in google colab just by clicking in the button in each notebook.
 
 ## Prerequisites
 
