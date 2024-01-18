@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+
+notebooks/notebooks_w_solutions/custom_model
 __pycache__/
 *.py[cod]
 *$py.class
